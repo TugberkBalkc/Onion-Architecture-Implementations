@@ -1,0 +1,31 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <header class="">
+        <Navbar>
+        </Navbar>
+    </header>
+    <section class="blog-posts">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="contents mt-4">
+                        @Body
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <SideBar>
+                    </SideBar>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="footr">
+        <Footer>
+        </Footer>
+    </section>
+
+</div>
+
+
