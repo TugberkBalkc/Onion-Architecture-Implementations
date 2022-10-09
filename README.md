@@ -1,7 +1,9 @@
 # Onion-Architecture-Implementations
-This Repository Has An Implementation Of Onion Architecture Approximations &amp; Critical Points
+This Project Has An Implementation Of Onion Architecture Approximations &amp; Critical Points
 
-This Technologies Has Used In This Project
+
+******************************************************************************************************
+This Technologies Has Used
 
 -Entity Framework (To Gain Object Relational Mapping Skills)
 -Automapper (Mapping Objects Basically)
@@ -10,3 +12,17 @@ This Technologies Has Used In This Project
 -Fluent Validation (To Validate Requests)
 -RabbitMQ (Producing And Consuming Non-Instantaneous Events and Requests)
 -Blazor Web Asembly (To Be Completed)
+
+
+******************************************************************************************************
+This Approximations Has Used
+
+-Object Oriented Programming
+-Aspect Oriented Programming
+-Domain Driven Design
+-Clean Architecture
+-CQRS Pattern
+-Mediator Pattern
+-Depencency Inversion
+-SOLID Principals
+-Entity Framework Code First
